@@ -1,0 +1,27 @@
+/* src/components/Title.css */
+
+.title-container {
+  text-align: center;
+  margin-top: 170px;
+
+}
+
+.subheading {
+  font-size: 20px;
+  color: #3C315B;
+
+}
+
+.main-title {  
+  margin-top: 0px;
+  font-size: 150px;
+  line-height: 138px;
+  font-weight: 500;
+  color: #3C315B;
+}
+
+.image {
+  width: 110px;  /* Ajuste o tamanho da imagem conforme necessário */
+  height: auto;
+  margin: 0 50px; /* Espaçamento horizontal entre o texto e a imagem */
+}

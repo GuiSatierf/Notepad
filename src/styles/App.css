@@ -262,6 +262,7 @@
     color: white;
   }
   
+  
   /* Hover do botão de salvar (verde mais escuro) */
   button[type="submit"]:hover {
     background-color: #45a049;

@@ -1,0 +1,12 @@
+/* Estilos globais, como reset de margens, fontes e etc */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Arial', sans-serif;
+    background: #F5F2FF;
+  }
+  
